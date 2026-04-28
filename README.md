@@ -1,5 +1,4 @@
-# Portfolio Website - Hướng Dẫn
-
+# Portfolio Website
 Đây là một website portfolio cá nhân được tạo bằng HTML, CSS và JavaScript.
 
 ## 🎯 Cấu Trúc Website
